@@ -140,7 +140,7 @@ height: 340px;
 
 .search{
     border: none;
-    width: 200px;
+    max-width:350px;
     padding-bottom: 10px;
     padding-top: 10px;
     text-align: center;
