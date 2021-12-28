@@ -181,10 +181,10 @@ button:hover{
     justify-content: center;
     justify-content: space-between;
 }
-.grp img{
+/* .grp img{
     width: 1100px;
     height: 300px;
-}
+} */
 .footer{
     background-color: rgb(26, 24, 24);
     height:400px;
@@ -278,6 +278,7 @@ section{
     position: fixed;
     background-color: #f1f1f1;
     min-width: 160px;
+      max-width:150px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
     height: 300px;
