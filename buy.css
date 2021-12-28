@@ -93,3 +93,8 @@
     h2 p{
         color: rgb(114, 114, 226);
     }
+    @media screen and (max-width: 800px) {
+        .left, .main, .right {
+            width: 100%;
+        }
+}
