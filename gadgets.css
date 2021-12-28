@@ -187,7 +187,7 @@ button:hover{
     width:200px;
     height: 300px;
 } */
-grp img{
+.grp img{
     max-width:200px;
     max-height:300px;
 }
