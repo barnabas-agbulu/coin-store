@@ -184,6 +184,8 @@ button:hover{
     justify-content: space-between;
 }
 .grp img{
+    display:flex;
+    flex-direction:row;
     width:200px;
     height: 300px;
 }
