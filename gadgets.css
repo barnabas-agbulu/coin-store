@@ -184,11 +184,11 @@ button:hover{
     justify-content: space-evenly;
 }
 .grp .img{
-    width:250px;
+    width:200px;
     height: 300px;
 }
 grp img{
-    max-width:250px;
+    max-width:200px;
     max-height:300px
 }
 .footer{
