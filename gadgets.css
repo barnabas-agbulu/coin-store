@@ -33,6 +33,8 @@ background-color: rgb(26, 24, 24);
 .header a{
     text-decoration: none;
     color:rgb(241, 75, 139) ;
+
+
 }
 .header a:hover{
     background-color:rgb(243, 210, 223);
@@ -297,4 +299,8 @@ section{
   
   .dropdown:active .dropbtn {background-color:  rgb(231, 65, 148);}
 
-
+    @media screen and (max-width: 800px) {
+        .left, .main, .right {
+            width: 100%;
+        }
+}
