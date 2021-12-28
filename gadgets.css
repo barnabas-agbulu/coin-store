@@ -300,7 +300,7 @@ section{
   .dropdown:active .dropbtn {background-color:  rgb(231, 65, 148);}
 
     @media screen and (max-width: 800px) {
-        .left, .main, .right {
+        .header, body, .search,.dropdown-content {
             width: 100%;
         }
 }
