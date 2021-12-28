@@ -181,11 +181,15 @@ button:hover{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 .grp .img{
-    width:300px;
+    width:250px;
     height: 300px;
+}
+grp img{
+    max-width:250px;
+    max-height:300px
 }
 .footer{
     background-color: rgb(26, 24, 24);
