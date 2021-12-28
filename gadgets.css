@@ -191,6 +191,8 @@ button:hover{
     max-width:600px;
     max-height:300px;
 }
+html{
+max-width=100%}
 .footer{
     background-color: rgb(26, 24, 24);
     height:400px;
