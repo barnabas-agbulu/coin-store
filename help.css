@@ -193,7 +193,8 @@ button:hover{
     flex-direction: row;
     justify-content: space-evenly;
     margin-top: 100px;
-    width: 800px;
+    min-width: 800px;
+    max-width:1600px;
 }
 .inner{
     background-color:  rgb(108, 108, 112);
