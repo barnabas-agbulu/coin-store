@@ -1,7 +1,9 @@
 body{
-/*     background-color:rgb(193, 170, 247); */
-       backgroung-color: white;
-   height:500px;
+    background-color:rgb(193, 170, 247);
+  
+}
+html{
+    height:700px;
 }
 .spant{
     font-size: 40px;
