@@ -61,8 +61,8 @@ object-fit: cover;
 .img2{
     max-width: 50px;
     max-height: 50px;
-    min-width:100px;
-    min-height"100px;
+    min-width:200px;
+    min-height:200px;
     padding: 20px;
     display: flex;
     flex-direction: row-reverse;
