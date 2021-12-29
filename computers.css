@@ -108,7 +108,7 @@ height: 340px;
  }
  .box3{
     display: flex;
-    justify-content: space-between ;
+    justify-content: space-evenly ;
   padding-top: 5px;
   /* padding-left:230px; */
  }
@@ -297,19 +297,18 @@ section{
   .dropdown:hover .dropdown-content {display: block;}
   
   .dropdown:active .dropbtn {background-color:  rgb(231, 65, 148);}
-
     @media screen and (max-width: 800px) {
-        .header,.header a, body, .search,.dropdown-content,.box3,section,.logo,.grp,.logo1,.header a:hover,.logo1 img,.dashboard,img{
+        .header,.header a, body, .search,.dropdown-content,.box3,section,.logo,.grp,.logo1,.header a:hover,.logo1 img,.dashboard,img,.box3 a,.img2 a,.img2{
             width: 100%;
         }
 }
     @media screen and (max-width: 768px) {
-        .header,.header a, body, .search,.dropdown-content,.box3,section,.logo,.grp,.logo1,.header a:hover,.logo1 img,.dashboard,img {
+        .header,.header a, body, .search,.dropdown-content,.box3,section,.logo,.grp,.logo1,.header a:hover,.logo1 img,.dashboard,img,.box3 a,.img2 a,.img2 {
             width: 100%;
         }
 }
     @media screen and (max-width: 600px) {
-        .header,.header a, body, .search,.dropdown-content,.box3 , section , .logo,.grp , .logo1 , .header a:hover,.logo1 img,.dashboard ,img {
+        .header,.header a, body, .search,.dropdown-content,.box3 , section , .logo,.grp , .logo1 , .header a:hover,.logo1 img,.dashboard ,img,.box3 a,.img2 a,.img2 {
             width: 100%;
         }
 }
