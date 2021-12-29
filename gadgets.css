@@ -311,3 +311,13 @@ section{
             width: 100%;
         }
 }
+    @media screen and (max-width: 768px) {
+        .header,.header a, body, .search,.dropdown-content,.box3,section,.logo,.grp {
+            width: 100%;
+        }
+}
+    @media screen and (max-width: 600px) {
+        .header,.header a, body, .search,.dropdown-content,.box3,section,.logo,.grp {
+            width: 100%;
+        }
+}
