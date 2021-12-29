@@ -74,7 +74,7 @@
     }
     .nav2{
         background-color: rgb(114, 114, 226);
-        width: 500px;
+        min-width: 300px;
         color:rgb(238, 149, 15) ;
         display: flex;
         flex-direction: column;
@@ -94,7 +94,22 @@
         color: rgb(114, 114, 226);
     }
     @media screen and (max-width: 800px) {
-        .left, .main, .right {
+        .div, .nav, .nav2,.body,.tab,.header,.header a,.header a:hover,h1,h2,.logo,.nav3,.h2 p {
+            width: 100%;
+        }
+}
+    @media screen and (max-width: 768px) {
+        .div, .nav, .nav2,.body,.tab,.header,.header a,.header a:hover,h1,h2,.logo,.nav3,.h2 p {
+            width: 100%;
+        }
+}
+    @media screen and (max-width: 600px) {
+        .div, .nav, .nav2,.body,.tab,.header,.header a,.header a:hover,h1,h2,.logo,.nav3,.h2 p {
+            width: 100%;
+        }
+}
+    @media screen and (max-width: 992px) {
+        .div, .nav, .nav2,.body,.tab,.header,.header a,.header a:hover,h1,h2,.logo,.nav3,.h2 p {
             width: 100%;
         }
 }
