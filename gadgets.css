@@ -307,7 +307,7 @@ section{
   .dropdown:hover .dropbtn {background-color:  rgb(231, 65, 148);}
 
     @media screen and (max-width: 800px) {
-        .header, body, .search,.dropdown-content,.box3,section {
+        .header,.header a, body, .search,.dropdown-content,.box3,section {
             width: 100%;
         }
 }
