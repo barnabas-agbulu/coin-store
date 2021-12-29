@@ -59,8 +59,8 @@ object-fit: cover;
   padding-top: 20px; */
 /* } */ 
 .img2{
-    width: 200px;
-    height: 100px;
+    max-width: 200px;
+    max-height: 100px;
     padding: 20px;
     display: flex;
     flex-direction: row-reverse;
