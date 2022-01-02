@@ -173,11 +173,11 @@ button:hover{
 }
 .link a{
     text-decoration: none;
-    font-size:20px
+    
 }
 .link{
     padding: 2px;
-      font-size:20px
+     
 }
 .grp{
     display: flex;
